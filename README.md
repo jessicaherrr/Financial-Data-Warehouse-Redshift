@@ -187,8 +187,6 @@ GRANT SELECT ON TABLE mart.daily_financial_report TO dashboard_readonly;
 ```text
 financial-data-warehouse-redshift/
 ├── README.md
-├── architecture/
-│   └── architecture_diagram.png
 ├── sql/
 │   ├── 01_staging/
 │   │   ├── stg_orders.sql
